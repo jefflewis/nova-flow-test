@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/jeff/.nodenv/versions/12.8.1/bin/node /Users/jeff/.nodenv/versions/12.8.1/bin/yarn add -D flow
+
+PATH: 
+  /Users/jeff/.nodenv/versions/12.8.1/bin:/usr/local/Cellar/nodenv/1.4.0/libexec:/Users/jeff/.rbenv/shims:/Users/jeff/.config/nvm/12.22.1/bin:/Users/jeff/.config/nvm/12.8.1/bin /Users/jeff/.rbenv/shims /Users/jeff/.pyenv/shims ./node_modules/.bin /Users/jeff/bin /Users/jeff/.bin /Users/jeff/.local/bin /usr/local/bin /usr/local/sbin /usr/bin /Users/jeff/Library/Android/sdk/emulator /Users/jeff/Library/Android/sdk/tools /Users/jeff/Library/Android/sdk/tools/bin /Users/jeff/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/jeff/.rbenv/shims:/Users/jeff/.nodenv/shims:/Users/jeff/.pyenv/shims:./node_modules/.bin:/Users/jeff/bin:/Users/jeff/.bin:/Users/jeff/.local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/Users/jeff/Library/Android/sdk/emulator:/Users/jeff/Library/Android/sdk/tools:/Users/jeff/Library/Android/sdk/tools/bin:/Users/jeff/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.8.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/jeff/Developer/nova-flow-test/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/jeff/.nodenv/versions/12.8.1/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/jeff/.nodenv/versions/12.8.1/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/jeff/.nodenv/versions/12.8.1/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

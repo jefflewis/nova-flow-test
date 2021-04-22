@@ -1,0 +1,11 @@
+{
+  "name": "nova-flow-test",
+  "version": "1.0.0",
+  "description": "test flow hover with nova",
+  "main": "index.js",
+  "author": "Jeff Lewis <mail@jeffreylewis.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.149.0"
+  }
+}
